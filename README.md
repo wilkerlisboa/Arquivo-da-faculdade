@@ -35,4 +35,4 @@ Obs: Para cada filho, o funcionário recebe um adicional de 3%, sendo este bônu
     <br>
 <li>Exercício Proposto 03</li>
 <p>Escrever um algoritmo que lê o nome de um vendedor, o seu salário fixo, o total de vendas por ele efetuadas e o percentual que ganha sobre o total de vendas. Calcular o salário total do vendedor. Escrever o número do vendedor e seu salário total.</p>
-<a href="https://github.com/wilkerlisboa/File_of_college/blob/main/SALARIO%20TOTAL%20DO%20VENDEDOR.alg">Salario total</a>
+<a href="https://github.com/wilkerlisboa/Arquivo-da-faculdade/blob/main/SALARIO%20TOTAL%20DO%20VENDEDOR.alg">Salario total</a>
