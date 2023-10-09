@@ -23,7 +23,7 @@
 <li>Atividade 02 - Algoritmo para calcular um salário</li>
 <p>Escreva um algoritmo no VisuAlg que leia o nome de um funcionário, o número de horas trabalhadas, o valor que recebe por hora e o número de filhos. Após o recebimento destas informações, faça com que o algoritmo calcule o salário deste funcionário.
 Obs: Para cada filho, o funcionário recebe um adicional de 3%, sendo este bônus calculado sobre o salário bruto.</p>
-<a href="https://github.com/wilkerlisboa/File_of_college/blob/main/CALCULAR%20UM%20SAL%C3%81RIO.alg">Algoritmo para calcular um salário</a>
+<a href="https://github.com/wilkerlisboa/Arquivo-da-faculdade/blob/main/CALCULAR%20UM%20SAL%C3%81RIO.alg">Algoritmo para calcular um salário</a>
     <br>
 <li>Exercício Proposto 01</li>
 <p>Escrever um algoritmo que calcule a área de um quadrado.</p>
