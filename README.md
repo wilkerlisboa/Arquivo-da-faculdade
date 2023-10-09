@@ -27,7 +27,7 @@ Obs: Para cada filho, o funcionário recebe um adicional de 3%, sendo este bônu
     <br>
 <li>Exercício Proposto 01</li>
 <p>Escrever um algoritmo que calcule a área de um quadrado.</p>
-<a href="https://github.com/wilkerlisboa/File_of_college/blob/main/AREA%20DE%20UM%20QUADRADO.alg">Area de um quadrado</a>
+<a href="https://github.com/wilkerlisboa/Arquivo-da-faculdade/blob/main/AREA%20DE%20UM%20QUADRADO.alg">Area de um quadrado</a>
     <br>
 <li>Exercício Proposto 02</li>
 <p>Escrever um algoritmo que leia a aresta e calcule a área de um cubo.</p>
