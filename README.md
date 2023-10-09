@@ -17,7 +17,7 @@
   
 <li>Atividade 01 – Meu primeiro pseudo-código</li>
 <p>Faça um algoritmo que leia 3 valores (a, b e c) e calcule a área de um trapézio, sendo: a = Base maior; b = Base menor; c = Altura.</p>
-<a href="https://github.com/wilkerlisboa/File_of_college/blob/main/MEU%20PRIMEIRO%20PSEUDO%20C%C3%93DIGO.alg">Meu primeiro pseudo-código</a>
+<a href="">Meu primeiro pseudo-código</a>
   <br>
 <li>Atividade 02 - Algoritmo para calcular um salário</li>
 <p>Escreva um algoritmo no VisuAlg que leia o nome de um funcionário, o número de horas trabalhadas, o valor que recebe por hora e o número de filhos. Após o recebimento destas informações, faça com que o algoritmo calcule o salário deste funcionário.
