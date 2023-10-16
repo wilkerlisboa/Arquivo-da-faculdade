@@ -25,6 +25,7 @@ void show(){
     printf("    			 CALCULAR A IDADE DE UMA PESSOA												\n\n");
 }
 int main(){
+	system("cls");
 	//LOGIN
 	printf("DELTA ROOT> USUARIO: ");
 	gets(nome);
