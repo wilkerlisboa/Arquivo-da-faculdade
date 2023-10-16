@@ -29,6 +29,7 @@ int main(){
 	//PERGUNTA
 	printf("DELTA ROOT> Qual e o seu nome?: ");
 	gets(nome_usuario);
+	//MENU
 	show();
 	//PERGUNTA
 	printf("DELTA ROOT> Qual e a cotacao de hoje?: ");
