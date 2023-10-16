@@ -2,7 +2,7 @@
 // NOME DO ALUNO: WILKER LISBOA E ANTHONY
 // NOME DO ARQUIVO: EXERCICIO 05
 // TRABALHO: ATIVIDADE 05
-// DESCRIÇÃO: CONVERSOR DE MOEDAS
+// DESCRIÇÃO: CONVERSOR DE HORAS
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
